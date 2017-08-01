@@ -14,3 +14,5 @@ nhu vau la pull se lam cho code bi conflicts
 toi la so 2 va toi them 1 dong nua
 
 toi la so 1 va toi them 1 dong nua
+
+tao push vo quan_branch
