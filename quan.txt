@@ -10,3 +10,5 @@ tao dang sua thang test 1 va tao push len
 
 nhu vau la pull se lam cho code bi conflicts
 
+
+toi la so 1 va toi them 1 dong nua
