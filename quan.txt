@@ -1,1 +1,3 @@
 xin chao day la push originmaster
+
+tao dang sua thang test 1 va tao push len
