@@ -2,3 +2,8 @@ xin chao day la push originmaster
 
 
 tao dang sua thang test 2
+
+tao dang sua thang test 1 va tao push len
+
+nhu vau la pull se lam cho code bi conflicts
+
